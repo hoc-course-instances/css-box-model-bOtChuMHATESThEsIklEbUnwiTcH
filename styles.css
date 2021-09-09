@@ -3,4 +3,29 @@ main {
   flex-direction:column;
   justify-content: center;
   align-items: center;
+  
+}
+.box {
+  background-color: beige;
+  color: lime;
+  border: bisque 2px solid;
+}
+
+.box1 {
+  margin: 50px;
+  padding: 37px;
+}
+
+.box2 {
+padding-left: 61px;
+padding-top: 34px;
+margin: 102px;
+}
+
+.box3 {
+  padding-left: 108px; 
+  padding-top: 205px;
+  padding-bottom: 89px;
+  padding-right: 34px;
+  margin: 12px;
 }
